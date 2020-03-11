@@ -1,0 +1,11 @@
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\obj\Debug\netcoreapp2.1\Exo 3 héritage.csprojAssemblyReference.cache
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\obj\Debug\netcoreapp2.1\Exo 3 héritage.csproj.CoreCompileInputs.cache
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\obj\Debug\netcoreapp2.1\Exo 3 héritage.AssemblyInfoInputs.cache
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\obj\Debug\netcoreapp2.1\Exo 3 héritage.AssemblyInfo.cs
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\bin\Debug\netcoreapp2.1\Exo 3 héritage.deps.json
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\bin\Debug\netcoreapp2.1\Exo 3 héritage.runtimeconfig.json
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\bin\Debug\netcoreapp2.1\Exo 3 héritage.runtimeconfig.dev.json
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\bin\Debug\netcoreapp2.1\Exo 3 héritage.dll
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\bin\Debug\netcoreapp2.1\Exo 3 héritage.pdb
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\obj\Debug\netcoreapp2.1\Exo 3 héritage.dll
+P:\jdegardin\2ème année\SLAM 5\Exo 3 héritage\Exo 3 héritage\obj\Debug\netcoreapp2.1\Exo 3 héritage.pdb

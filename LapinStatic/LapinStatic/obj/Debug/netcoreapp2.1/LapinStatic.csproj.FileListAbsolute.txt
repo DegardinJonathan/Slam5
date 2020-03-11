@@ -1,0 +1,11 @@
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\obj\Debug\netcoreapp2.1\LapinStatic.csprojAssemblyReference.cache
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\obj\Debug\netcoreapp2.1\LapinStatic.csproj.CoreCompileInputs.cache
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\obj\Debug\netcoreapp2.1\LapinStatic.AssemblyInfoInputs.cache
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\obj\Debug\netcoreapp2.1\LapinStatic.AssemblyInfo.cs
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\bin\Debug\netcoreapp2.1\LapinStatic.deps.json
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\bin\Debug\netcoreapp2.1\LapinStatic.runtimeconfig.json
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\bin\Debug\netcoreapp2.1\LapinStatic.runtimeconfig.dev.json
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\bin\Debug\netcoreapp2.1\LapinStatic.dll
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\bin\Debug\netcoreapp2.1\LapinStatic.pdb
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\obj\Debug\netcoreapp2.1\LapinStatic.dll
+P:\jdegardin\2ème année\SLAM 5\LapinStatic\LapinStatic\obj\Debug\netcoreapp2.1\LapinStatic.pdb
