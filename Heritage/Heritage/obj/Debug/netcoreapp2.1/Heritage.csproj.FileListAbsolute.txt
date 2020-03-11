@@ -1,0 +1,11 @@
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\bin\Debug\netcoreapp2.1\Heritage.deps.json
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\bin\Debug\netcoreapp2.1\Heritage.runtimeconfig.json
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\bin\Debug\netcoreapp2.1\Heritage.runtimeconfig.dev.json
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\bin\Debug\netcoreapp2.1\Heritage.dll
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\bin\Debug\netcoreapp2.1\Heritage.pdb
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\obj\Debug\netcoreapp2.1\Heritage.csprojAssemblyReference.cache
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\obj\Debug\netcoreapp2.1\Heritage.csproj.CoreCompileInputs.cache
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\obj\Debug\netcoreapp2.1\Heritage.AssemblyInfoInputs.cache
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\obj\Debug\netcoreapp2.1\Heritage.AssemblyInfo.cs
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\obj\Debug\netcoreapp2.1\Heritage.dll
+P:\jdegardin\2ème année\SLAM 5\Heritage\Heritage\obj\Debug\netcoreapp2.1\Heritage.pdb

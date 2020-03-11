@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Héritage_Polymorphisme_Exo2.Modèle">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAECAEAIAQAEAAAAAAAACAAAAEAAAA=</HashCode>
+      <FileName>Modèle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="optionsModèle" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Héritage_Polymorphisme_Exo2.Option">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIEAgAA=</HashCode>
+      <FileName>Option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Héritage_Polymorphisme_Exo2.Program">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Héritage_Polymorphisme_Exo2.Vehicule">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAECAAAAAQBAAAAIAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Vehicule.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="optionsBase" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Héritage_Polymorphisme_Exo2.Voiture">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Héritage_Polymorphisme_Exo2.Vehicule" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="4.218" />
+        <Point X="2" Y="5.569" />
+        <Point X="4.75" Y="5.569" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="Possède" Type="Héritage_Polymorphisme_Exo2.Modèle" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="5.5" />
+        <Point X="8.438" Y="5.5" />
+        <Point X="8.438" Y="4.411" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Voiture.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Possède" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
